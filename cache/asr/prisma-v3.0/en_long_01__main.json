@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-d3ae-77a3-9b58-fac3b918d256",
+  "transcript": "The Northern Mariana's Emergency Management Office said that there were no damages reported in the nation. The twentieth century research has shown that there are two pools of genetic variation: hidden and expressed. As light pollution in their heyday was not the kind of problem it is today, they are usually located in cities or at campuses, easier to reach than those built in modern times.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.5745127201080322,
+  "end_to_end_latency": 0.5924239158630371,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 1.0392835999955423,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 28.86
+}

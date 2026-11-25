@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21001-b9e8-79d1-8077-d9ef9519fdd9",
+  "transcript": "does my care supreme policy cover domiciliary hospitalization and ayush treatment",
+  "model": "prisma-v2.5",
+  "processing_time": 0.20752239227294922,
+  "end_to_end_latency": 0.2102363109588623
+ },
+ "client_latency_s": 0.6696411999873817,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "bias_list": "[\"AYUSH\", \"Care\", \"Supreme\", \"domiciliary\"]",
+  "bias_score": "1.0"
+ },
+ "audio_duration_s": 8.361625
+}

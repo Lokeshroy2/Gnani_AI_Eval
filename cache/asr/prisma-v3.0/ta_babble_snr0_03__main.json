@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-8405-7057-b10a-9d63c2b768c0",
+  "transcript": "அந்த பாலம் செப்டம்பர் இரண்டாயிரத்து பதினேழு இல் புதிய சுங்கத்துறை சோதனை சாவடிகளுக்கு தயாரான நிலையில் முழுவதுமாக செயல்பட வேண்டும். கஸ்டமரும் மக்களும்.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3112518787384033,
+  "end_to_end_latency": 0.31339144706726074,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.8475895000156015,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 10.24
+}

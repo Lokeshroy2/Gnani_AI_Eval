@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-0cee-7980-af62-120923677402",
+  "transcript": "सबसे नज़दीकी सिरे पर कृष्ट की मोटाई करीब सत्तर किलोमीटर है और सबसे दूर के सिरे पर यह सौ किलोमीटर है।",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3585221767425537,
+  "end_to_end_latency": 0.36039209365844727,
+  "detected_language_code": "hi-IN"
+ },
+ "client_latency_s": 0.7559674000076484,
+ "request": {
+  "language_code": "indic-auto",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 7.8
+}

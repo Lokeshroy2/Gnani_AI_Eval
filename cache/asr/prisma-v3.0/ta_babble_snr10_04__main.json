@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-8abf-7d73-a24b-ad77fe0fffbe",
+  "transcript": "தொனி மிகவும் வெப்பமடைந்ததலே அனுமதிக்கப்படுவதில் கவனமாக இருக்கவும், அதனால் தொனி. சொல்லலாம், நமது தீவிர நிகழ்வுகளில் துணி தீயால் வாரப்படலாம், ஒரு வெடிகுண்டோ.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.4884755611419678,
+  "end_to_end_latency": 0.4912581443786621,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.9120505999890156,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 14.7
+}

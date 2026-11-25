@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.617603999999119,
+ "bytes": 153600,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.8,
+ "voice": "Sunaina",
+ "text_sent": "Please speak to Ms. Priyadarshini Subramaniam at the Coimbatore branch."
+}

@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-801a-706e-978e-be6ffcb42968",
+  "transcript": "அந்த பாலம் செப்டம்பர் இரண்டாயிரத்து பதினேழில் ஒரு சிஎஸ் சுங்கத்துறை சோதனைச் சாவடிகளுக்கு தயாரானது முழுவதுமாக செயல்பட. திட்டமிடப்பட்டுள்ளது.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.46347832679748535,
+  "end_to_end_latency": 0.4659295082092285,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.8867384000041056,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 10.24
+}

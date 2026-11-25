@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-3416-7c99-a83c-d331b0136bd5",
+  "transcript": "",
+  "model": "prisma-v2.5",
+  "processing_time": 0.1419816017150879,
+  "end_to_end_latency": 0.14377212524414062
+ },
+ "client_latency_s": 0.5341505999967922,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 5.76
+}

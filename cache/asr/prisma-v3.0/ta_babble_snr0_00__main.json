@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-5db6-7c66-8a3f-20afafbe20e0",
+  "transcript": "இது வேதியியல் ஃபிகர் என அழைக்கப்படுகிறது. நாம் சிவப்பு முட்டைக்கூ சாற்றைப் பயன்படுத்தி ஒரு குறிகாட்டியை உருவாக்கலாம்.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.37210917472839355,
+  "end_to_end_latency": 0.3744535446166992,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.7953791000181809,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 7.8
+}

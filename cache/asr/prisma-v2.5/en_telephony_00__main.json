@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-1997-7780-96d2-0a000e2df099",
+  "transcript": "however due to the slow communication channels styles in the west could lag behind by twenty five to thirty years",
+  "model": "prisma-v2.5",
+  "processing_time": 0.17968130111694336,
+  "end_to_end_latency": 0.1812763214111328
+ },
+ "client_latency_s": 0.5700498999794945,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 10.56
+}

@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.718009100004565,
+ "bytes": 135680,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.24,
+ "voice": "Sunaina",
+ "text_sent": "வணக்கம், உங்கள் மருத்துவ காப்பீட்டு பாலிசி பற்றி பேச அழைக்கிறேன்."
+}

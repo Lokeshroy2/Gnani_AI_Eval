@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-2059-7f46-add2-803d48103c1b",
+  "transcript": "லக்காச்சிங் பஜனியை வழங்கினார் பாடகர் ராஜு கண்டல்வாலும், அவருடன் வந்திருந்தார்.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.23396515846252441,
+  "end_to_end_latency": 0.23556995391845703,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.7306335000030231,
+ "request": {
+  "language_code": "indic-auto",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 6.96
+}

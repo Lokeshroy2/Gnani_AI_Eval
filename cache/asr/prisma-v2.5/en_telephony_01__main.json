@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-2398-730e-ba91-520305b8afce",
+  "transcript": "all nouns alongside the world say for you always begin with a capital letter even in the middle of a sentence",
+  "model": "prisma-v2.5",
+  "processing_time": 0.17990708351135254,
+  "end_to_end_latency": 0.18136858940124512
+ },
+ "client_latency_s": 0.5828258999972604,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 8.76
+}

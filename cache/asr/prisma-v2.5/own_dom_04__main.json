@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21001-bc76-7a64-a25f-dca5fbe14c96",
+  "transcript": "my nominee is my mother and there is a two years waiting period for pre existing disease",
+  "model": "prisma-v2.5",
+  "processing_time": 0.08543610572814941,
+  "end_to_end_latency": 0.08719968795776367
+ },
+ "client_latency_s": 0.5292666000023019,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 7.5723125
+}

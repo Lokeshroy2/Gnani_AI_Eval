@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+# regenerable with `prepare-asr`; the manifest and the API cache are committed so
+# reviewers can re-run `score-asr` / `score-tts` without an API key or credits
+data/asr/**/*.wav

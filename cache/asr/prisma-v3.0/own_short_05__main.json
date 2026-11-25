@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21002-64a2-7bf8-81d8-a167d1b8cbcd",
+  "transcript": "வேண்டாம், இல்லை, வேண்டாம்.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.15753173828125,
+  "end_to_end_latency": 0.15891718864440918,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.5230253000045195,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 2.815
+}

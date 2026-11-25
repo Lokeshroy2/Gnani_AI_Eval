@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 0.9800272999855224,
+ "bytes": 112640,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.52,
+ "voice": "Kaveri",
+ "text_sent": "Thank you for calling. How can I help you with your health insurance policy today?"
+}

@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-80eb-7fb2-8192-cd227203c3a0",
+  "transcript": "For example, each year students from Bennett School in North Carolina design a website about their trip to the state capital. Each year the website gets remodelled, but old versions are kept online to service this scrapbook.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.37197232246398926,
+  "end_to_end_latency": 0.3742516040802002,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.7868807000049856,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 11.28
+}

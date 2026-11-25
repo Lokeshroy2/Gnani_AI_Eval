@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-251c-7d26-9d0e-9d547095bf82",
+  "transcript": "துணி மிகவும் வெப்பமடைந்ததை அனுமதிக்க கவனமாக இருக்கவும் அதனால் துணி சுருங்கலாம் நமது தூர முறைகளில் துணி தூரம் வாடப்படலாம்",
+  "model": "prisma-v2.5",
+  "processing_time": 0.1425635814666748,
+  "end_to_end_latency": 0.14450693130493164
+ },
+ "client_latency_s": 0.76980090001598,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 14.7
+}

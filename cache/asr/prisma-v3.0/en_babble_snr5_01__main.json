@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-97b1-7b4b-9e93-fb3082779db5",
+  "transcript": "All nouns on one side of the word \"said\" are used in with a capital letter even in the middle of a sentence. Thank you.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.38110899925231934,
+  "end_to_end_latency": 0.38325047492980957,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.8194885000120848,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 8.76
+}

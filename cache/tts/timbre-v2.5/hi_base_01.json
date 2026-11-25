@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.27315739999176,
+ "bytes": 148480,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.64,
+ "voice": "Nalini",
+ "text_sent": "नमस्ते, मैं आपकी स्वास्थ्य बीमा पॉलिसी के बारे में बात करने के लिए कॉल कर रही हूँ।"
+}

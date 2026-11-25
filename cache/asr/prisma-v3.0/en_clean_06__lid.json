@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-64ce-7906-b49a-3d30a8b867d4",
+  "transcript": "The Northern Mariana's Emergency Management Office said that there were no damages reported in the nation.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.30403804779052734,
+  "end_to_end_latency": 0.30665016174316406,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.7438688999973238,
+ "request": {
+  "language_code": "indic-auto",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 10.8
+}

@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21002-35db-7918-acd2-264339acb8e0",
+  "transcript": "I paid 12,500 rupees on the 5th on month 5th of March.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.2174389362335205,
+  "end_to_end_latency": 0.21875,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.5945347999804653,
+ "request": {
+  "language_code": "en-IN",
+  "format": "transcribe",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 6.6123125
+}

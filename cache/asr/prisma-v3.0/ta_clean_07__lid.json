@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-47b1-728b-a174-12b9b0f7ccff",
+  "transcript": "சிங்கத்தை போன்றே ஓநாய்கள் அல்லது நாய்கள் ஆகிய விலங்குகள் வியக்கத்தை வகையில் செயல்படுகின்றன, ஆனால். மற்ற பூனை இனங்கள் இல்லை, நடவடிக்கையிலும் ஒத்து ஒத்து போகின்றன, மிகவும் ஆபத்தானவையும் கூட.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3693244457244873,
+  "end_to_end_latency": 0.37151575088500977,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.8335223000030965,
+ "request": {
+  "language_code": "indic-auto",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 14.04
+}

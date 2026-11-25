@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.0201454999914858,
+ "bytes": 97280,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.04,
+ "voice": "Kaveri",
+ "text_sent": "Please record your consent, as this call is kept as a record."
+}

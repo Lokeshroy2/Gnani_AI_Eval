@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 0.8917365999950562,
+ "bytes": 56320,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 1.76,
+ "voice": "Vedika",
+ "text_sent": "நீங்கள் இப்போது பேச முடியுமா?"
+}

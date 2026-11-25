@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-8e64-7040-9811-36a41b47d10e",
+  "transcript": "கலைஞர் அதிகாரம் பெற்ற ஒரு எளிய மக்கள், நல்லாட்சிகள், ஆளுநர், முதலமைச்சர், அரசு பொறுப்புகள் மீது கவனமாக இருக்கவும், அதனால். இருந்தாலும், நமது தீவிர முறைகளில் துணிச்சியால் வாடப்படலாம், ஒரு வெடிகுண்டு.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.4507589340209961,
+  "end_to_end_latency": 0.4538123607635498,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.8937450999801513,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 14.7
+}

@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-1ecd-708f-8dc8-4d0520463293",
+  "transcript": "all nouns one side will say words in over",
+  "model": "prisma-v2.5",
+  "processing_time": 0.1769850254058838,
+  "end_to_end_latency": 0.1788332462310791
+ },
+ "client_latency_s": 0.7096765000023879,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 8.76
+}

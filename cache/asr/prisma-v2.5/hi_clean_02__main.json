@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-735b-792b-afeb-eaa6664c75c5",
+  "transcript": "ऐसी कोई वैश्विक परिभाषा नहीं है जिसके लिए निर्मित सामान एंटीक होते हैं कुछ कर एजेंसियां सौ साल से पुराने सामान को एंटीक के तौर पर परिभाषित करती है",
+  "model": "prisma-v2.5",
+  "processing_time": 0.23556923866271973,
+  "end_to_end_latency": 0.23809814453125
+ },
+ "client_latency_s": 0.6517250000033528,
+ "request": {
+  "language_code": "hi-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 15.0
+}

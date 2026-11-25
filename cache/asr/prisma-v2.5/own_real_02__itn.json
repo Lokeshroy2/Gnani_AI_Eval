@@ -1,0 +1,20 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21002-23e9-7887-a425-0c6a3f5962d2",
+  "transcript": "my mobile number is 9840123456",
+  "model": "prisma-v2.5",
+  "processing_time": 0.22979235649108887,
+  "end_to_end_latency": 0.24975275993347168,
+  "output": {
+   "literal": "my mobile number is nine eight four zero one two three four five six"
+  }
+ },
+ "client_latency_s": 0.6127524999901652,
+ "request": {
+  "language_code": "en-IN",
+  "format": "transcribe"
+ },
+ "audio_duration_s": 5.033625
+}

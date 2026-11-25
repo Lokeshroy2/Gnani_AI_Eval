@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.170150799996918,
+ "bytes": 153600,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.8,
+ "voice": "Kaveri",
+ "text_sent": "your policy number is s h two zero two six zero zero four five one seven"
+}

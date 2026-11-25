@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-8ea9-7676-beda-70c7ab2f5f41",
+  "transcript": "My card expiry date is expired. Can you tell me the reason why?",
+  "model": "prisma-v3.0",
+  "processing_time": 0.43206071853637695,
+  "end_to_end_latency": 0.4335958957672119,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.8491623000008985,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 10.56
+}

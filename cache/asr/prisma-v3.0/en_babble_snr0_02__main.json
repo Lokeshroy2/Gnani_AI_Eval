@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-a6eb-728c-8efd-c65a391eae9a",
+  "transcript": "The foreigners after growing account of the pleasures recorded by Lord Byron",
+  "model": "prisma-v3.0",
+  "processing_time": 0.29942846298217773,
+  "end_to_end_latency": 0.30184006690979004,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.7503799000114668,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 11.46
+}

@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-5181-718f-a552-77c5fc64721b",
+  "transcript": "Cabbage juice changes color depending on how acidic, basic, alkaline the chemical is.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.2295517921447754,
+  "end_to_end_latency": 0.23114752769470215,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.6928426999947987,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 5.76
+}

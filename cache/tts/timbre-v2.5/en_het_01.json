@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 0.8191007999994326,
+ "bytes": 97280,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.04,
+ "voice": "Kaveri",
+ "text_sent": "I read the policy yesterday, and now I will read the claim form."
+}

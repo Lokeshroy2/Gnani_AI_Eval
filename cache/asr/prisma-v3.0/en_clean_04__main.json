@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-562d-7220-8a62-dc3ded001a58",
+  "transcript": "People don't think about them as dinosaurs because they have feathers and can fly.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.2777833938598633,
+  "end_to_end_latency": 0.2794070243835449,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.6595950000046287,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 4.32
+}

@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21002-3d39-7603-b95a-09a790fe8897",
+  "transcript": "நான் hospital-லில் admit ஆகியிருக்கேன், cashless claim கிடைக்குமா?",
+  "model": "prisma-v3.0",
+  "processing_time": 0.2964510917663574,
+  "end_to_end_latency": 0.29808950424194336,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.6561502999975346,
+ "request": {
+  "language_code": "ta-IN,en-IN",
+  "format": "codemix",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 5.545625
+}

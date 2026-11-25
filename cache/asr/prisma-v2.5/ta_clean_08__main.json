@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-f30f-7c8a-97ba-7841ec6d3921",
+  "transcript": "பிரமிட் ஒலி மற்றும் ஒலி நிகழ்ச்சிகள் ஆகியவை இந்தப் பகுதியில் குழந்தைகளுக்கு மிக சுவாரஸ்யமான விஷயங்களில் ஒன்றாகும்",
+  "model": "prisma-v2.5",
+  "processing_time": 0.3787672519683838,
+  "end_to_end_latency": 0.3807497024536133
+ },
+ "client_latency_s": 0.8465310999890789,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 7.74
+}

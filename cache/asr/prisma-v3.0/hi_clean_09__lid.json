@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-1396-7f9a-8a1f-bb4fe2e44364",
+  "transcript": "यह संबंधित है, लेकिन आमतौर पर इसमें अल्पाइन शैली की की टूरिंग या माउंटेनियरिंग शामिल नहीं होती है। जिसे खड़े इलाकों में किया जाता है और जिसके लिए बहुत कड़ी इसकी और बूट की ज़रूरत होती है।",
+  "model": "prisma-v3.0",
+  "processing_time": 0.38994932174682617,
+  "end_to_end_latency": 0.39326000213623047,
+  "detected_language_code": "hi-IN"
+ },
+ "client_latency_s": 0.804001899989089,
+ "request": {
+  "language_code": "indic-auto",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 13.68
+}

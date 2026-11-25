@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-b251-7394-8f36-226969491a1e",
+  "transcript": "The blue change is color depending on how much of the base type of aluminum is coming from the anode.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3669869899749756,
+  "end_to_end_latency": 0.3683931827545166,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.7420005000021774,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 5.76
+}

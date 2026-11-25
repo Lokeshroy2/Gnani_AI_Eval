@@ -1,0 +1,16 @@
+{
+ "status": 400,
+ "body": {
+  "success": false,
+  "error": {
+   "type": "MAX_AUDIO_DURATION_EXCEEDED",
+   "message": "Audio duration exceeds maximum allowed duration of 30 seconds"
+  }
+ },
+ "client_latency_s": 0.4913109000190161,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 38.14
+}

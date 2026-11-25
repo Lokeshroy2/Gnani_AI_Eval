@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-9588-7d0a-bd0c-141492e5866c",
+  "transcript": "துணி மிகவும் வெப்பமடைந்ததை அனுமதிக்கப்படாதடி. கவனமாக இருக்கவும், அதனால் துணி சுருங்கலாம் அல்லது தீவிர நிகழ்வுகளில் துணி தீயால் வாடப்படலாம்.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.40787601470947266,
+  "end_to_end_latency": 0.4102516174316406,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.9111440000124276,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 14.7
+}

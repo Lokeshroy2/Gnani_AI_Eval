@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-7b5c-7f41-a775-478ec6408c43",
+  "transcript": "And in between one fifty and two hundred copies were made, now known as the lab broadsides.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.2990531921386719,
+  "end_to_end_latency": 0.3007845878601074,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.7088403000088874,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 4.8
+}

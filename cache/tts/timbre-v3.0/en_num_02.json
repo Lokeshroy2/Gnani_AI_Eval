@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 2.0152262999909,
+ "bytes": 186880,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 5.84,
+ "voice": "Sunaina",
+ "text_sent": "Please call us at 9876543210."
+}

@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-4487-770d-8f5c-35c894a5091d",
+  "transcript": "All nouns alongside the world \"safe\" for you. Always begin with a capital letter, even in the middle of a sentence.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.29408693313598633,
+  "end_to_end_latency": 0.2969324588775635,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.6987424999824725,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 8.76
+}

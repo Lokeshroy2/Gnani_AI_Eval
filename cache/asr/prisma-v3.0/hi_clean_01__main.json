@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-dfbc-799f-b438-ae0aaf8aec30",
+  "transcript": "ग्रीनलैंड को बहुत कम जगह बसाया गया था। नॉर्थ सगास में वे कहते हैं। कि एरिक रीड हत्या के लिए आइसलैंड से निर्वासित किया गया था और आगे पश्चिम की यात्रा करते समय ग्रीनलैंड मिला, जिसे ग्रीनलैंड नाम दिया गया।",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3763906955718994,
+  "end_to_end_latency": 0.3786923885345459,
+  "detected_language_code": "hi-IN"
+ },
+ "client_latency_s": 0.813137099990854,
+ "request": {
+  "language_code": "hi-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 13.8
+}

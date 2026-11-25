@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21001-6357-743c-aca6-65e533274a28",
+  "transcript": "என்னோட பாலிசி ரினீவல் பண்ணணும் ப்ரீமியம் எவ்வளோ",
+  "model": "prisma-v2.5",
+  "processing_time": 0.34389686584472656,
+  "end_to_end_latency": 0.34571337699890137
+ },
+ "client_latency_s": 0.7273553000122774,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 5.055
+}

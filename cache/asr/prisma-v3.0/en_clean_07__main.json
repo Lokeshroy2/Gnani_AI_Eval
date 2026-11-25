@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-67a7-7de6-90ba-73e7ddf383a5",
+  "transcript": "The twentieth century research has shown that there are two pools of genetic variation: hidden and expressed.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.2340106964111328,
+  "end_to_end_latency": 0.23591375350952148,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.6547794999787584,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 6.96
+}

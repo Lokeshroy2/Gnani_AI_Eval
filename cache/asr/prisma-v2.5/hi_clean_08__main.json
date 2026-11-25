@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-a39e-772e-b752-67e025fe170e",
+  "transcript": "सबसे नज़दीकी सिरे पर कृष्ठ की मोटाई करीब सत्तर किलोमीटर है और सबसे दूर के सिरे पर यह सौ किलोमीटर है",
+  "model": "prisma-v2.5",
+  "processing_time": 0.17603158950805664,
+  "end_to_end_latency": 0.1777961254119873
+ },
+ "client_latency_s": 0.5926320000144187,
+ "request": {
+  "language_code": "hi-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 7.8
+}

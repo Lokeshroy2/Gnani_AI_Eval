@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-9acb-764d-8882-cdc23da1cd05",
+  "transcript": "The whole now is a nice time to get an exercise calendar, and you can use the calendar to plan your activities. So what do you do?",
+  "model": "prisma-v3.0",
+  "processing_time": 0.39497876167297363,
+  "end_to_end_latency": 0.3970310688018799,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.8004536000080407,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 8.76
+}

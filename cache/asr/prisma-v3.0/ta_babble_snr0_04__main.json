@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-91ec-7118-9f12-3d68753c428d",
+  "transcript": "ஆளுநர் அதிகாரம் கொண்டு ஒரு படி கோரும் ஆளுநர் அதிகாரி அலுவலகத்தில் வெளியே வருகிறவர்களுக்கு இதுவே தாளமாக அமையும். நூற்றாண்டுகளில் மற்றும் ஐரோப்பிய வரலாற்றில், அமெரிக்கர்கள் தீவிரவாதத்தை ஒரு வழி கொண்டு.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.42315673828125,
+  "end_to_end_latency": 0.4256927967071533,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.8742079999938142,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 14.7
+}

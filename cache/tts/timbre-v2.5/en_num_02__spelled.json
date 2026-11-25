@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.1599060000153258,
+ "bytes": 122880,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.84,
+ "voice": "Kaveri",
+ "text_sent": "please call us at nine eight seven six five four three two one zero"
+}

@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21001-663d-72e0-8d5d-e10b8ebe3a5c",
+  "transcript": "க்ளைம் ஸ்டேட்டஸ் என்னன்னு செக் பண்ணி சொல்லுங்கள்",
+  "model": "prisma-v2.5",
+  "processing_time": 0.29421496391296387,
+  "end_to_end_latency": 0.2958369255065918
+ },
+ "client_latency_s": 0.6883765000093263,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 4.905625
+}

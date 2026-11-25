@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21001-68d5-77aa-acfa-159871b9731e",
+  "transcript": "நான் ஹாஸ்பிட்டலில் அட்மிட் ஆகியிருக்கேன் கேஷ்லெஸ் கிளைம் கிடைக்குமா",
+  "model": "prisma-v2.5",
+  "processing_time": 0.1091463565826416,
+  "end_to_end_latency": 0.11064386367797852
+ },
+ "client_latency_s": 0.47462399999494664,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 5.545625
+}

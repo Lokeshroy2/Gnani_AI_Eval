@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-4df7-7f82-96e3-f0bc9a00a819",
+  "transcript": "The north, and within easy reach, is the romantic and fascinating town of Sintra, and which was made famous. To foreigners, after a glowing account of its splendour recorded by Lord Byron.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.43878173828125,
+  "end_to_end_latency": 0.44052577018737793,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.8684719000011683,
+ "request": {
+  "language_code": "indic-auto",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 11.46
+}

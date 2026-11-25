@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.1508108999987599,
+ "bytes": 133120,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.16,
+ "voice": "Kaveri",
+ "text_sent": "Please call us at 9876543210."
+}

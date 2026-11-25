@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-6883-77c6-8369-f5f48f503378",
+  "transcript": "the northern mariana's emergency management office said that there were no damages reported in the nation",
+  "model": "prisma-v2.5",
+  "processing_time": 0.3164803981781006,
+  "end_to_end_latency": 0.3321514129638672
+ },
+ "client_latency_s": 0.742679799994221,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 28.86
+}

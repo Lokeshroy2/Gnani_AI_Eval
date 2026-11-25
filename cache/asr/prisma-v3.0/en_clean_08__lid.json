@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-7105-7bf8-80fd-9d4c6a0cf781",
+  "transcript": "The aspect ratio of this format, dividing by twelve, to obtain the simplest whole number ratio. Is therefore said to be free to too.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3785836696624756,
+  "end_to_end_latency": 0.3808121681213379,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.8374713999801315,
+ "request": {
+  "language_code": "indic-auto",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 11.04
+}

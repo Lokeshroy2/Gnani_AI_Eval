@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-c6a9-7bc1-aa28-a5480fcfb0bf",
+  "transcript": "The hospital has followed protocols for infection control, and cooling separate room the patient from others to prevent. Hospital infection and other infections.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3373258113861084,
+  "end_to_end_latency": 0.34005141258239746,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.8968468999955803,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 11.42
+}

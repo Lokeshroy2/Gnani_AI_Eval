@@ -1,0 +1,20 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21002-558d-73a1-958a-4f61fffec6de",
+  "transcript": "My nominee is my mother, and there is a two years waiting period for pre-existing disease.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.34882235527038574,
+  "end_to_end_latency": 0.3503429889678955,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.8433450000011362,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0",
+  "keyterms": "[\"nominee\", \"waiting period\", \"pre-existing\"]"
+ },
+ "audio_duration_s": 7.5723125
+}

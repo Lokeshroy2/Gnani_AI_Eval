@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-9426-7609-ab5b-618117db9e11",
+  "transcript": "अपनी सरकार के अलावा आप अन्य देशों की सरकारों की सलाह ले सकते हैं हालांकि उनकी सलाह उनके नागरिकों को ध्यान में रख कर दी जाती है",
+  "model": "prisma-v2.5",
+  "processing_time": 0.278670072555542,
+  "end_to_end_latency": 0.28117966651916504
+ },
+ "client_latency_s": 0.7142846999922767,
+ "request": {
+  "language_code": "hi-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 10.62
+}

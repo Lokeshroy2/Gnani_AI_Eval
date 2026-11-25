@@ -1,0 +1,20 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21002-49e8-70b0-bdc4-99ba3afda92d",
+  "transcript": "Please send the pre-authorization from to the T P A for my Star Health policy.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.44483065605163574,
+  "end_to_end_latency": 0.44674134254455566,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.8701357000099961,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0",
+  "keyterms": "[\"pre-authorization\", \"TPA\", \"Star Health\"]"
+ },
+ "audio_duration_s": 8.703
+}

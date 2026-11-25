@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-5b6a-708b-930f-84ef8ddef3a4",
+  "transcript": "the hospital has followed protocol for infection control including separating the patient from others to prevent hospital infection of others",
+  "model": "prisma-v2.5",
+  "processing_time": 0.2220602035522461,
+  "end_to_end_latency": 0.22356319427490234
+ },
+ "client_latency_s": 0.6723601999983657,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 11.42
+}

@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-ad8d-7892-8f41-3908f4287a48",
+  "transcript": "முக்கியமான மேடைகளில் இசை நிகழ்ச்சி முடிந்திருந்தாலும் விழாவின் சில பிரிவுகள் இரவு இசைப்பதை தொடரும்",
+  "model": "prisma-v2.5",
+  "processing_time": 0.11514639854431152,
+  "end_to_end_latency": 0.11722397804260254
+ },
+ "client_latency_s": 0.5445215000072494,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 14.88
+}

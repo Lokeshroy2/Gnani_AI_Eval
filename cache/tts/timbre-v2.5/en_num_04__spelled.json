@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.1619609000044875,
+ "bytes": 133120,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.16,
+ "voice": "Kaveri",
+ "text_sent": "the co payment is twenty percent and the deductible is two thousand five hundred rupees"
+}

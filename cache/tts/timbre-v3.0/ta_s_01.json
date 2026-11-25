@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.0053669999761041,
+ "bytes": 61440,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 1.92,
+ "voice": "Sunaina",
+ "text_sent": "நீங்கள் இப்போது பேச முடியும்."
+}

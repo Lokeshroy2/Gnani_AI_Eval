@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.2030140999995638,
+ "bytes": 76800,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 2.4,
+ "voice": "Sunaina",
+ "text_sent": "You would like to renew your policy today."
+}

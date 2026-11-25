@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 0.9373640999838244,
+ "bytes": 81920,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 2.56,
+ "voice": "Kaveri",
+ "text_sent": "The lead investigator found lead in the water sample."
+}

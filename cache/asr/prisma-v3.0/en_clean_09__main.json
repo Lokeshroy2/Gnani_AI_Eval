@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-749d-7a0f-811e-c5a621ba0dc7",
+  "transcript": "Light pollution in their heyday was not the kind of problem it is today. They are usually located in cities or at campuses, easier to reach than those built in modern times.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.5122339725494385,
+  "end_to_end_latency": 0.5150854587554932,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 1.0582294999912847,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 9.9
+}

@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 0.9686401000071783,
+ "bytes": 133120,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.16,
+ "voice": "Nalini",
+ "text_sent": "आपका प्रीमियम ₹15,000 है और आखिरी तारीख 10 जनवरी है।"
+}

@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.557847700023558,
+ "bytes": 125440,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.92,
+ "voice": "Sunaina",
+ "text_sent": "உங்கள் பிரீமியம் தொகை பன்னிரண்டாயிரத்து ஐந்நூறு ரூபாய் ஆகும்"
+}

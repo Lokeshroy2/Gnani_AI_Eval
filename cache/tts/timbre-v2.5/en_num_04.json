@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.084195900009945,
+ "bytes": 138240,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.32,
+ "voice": "Kaveri",
+ "text_sent": "The co-payment is 20% and the deductible is ₹2,500."
+}

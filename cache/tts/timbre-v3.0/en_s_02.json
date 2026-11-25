@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 0.9648119999910705,
+ "bytes": 53760,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 1.68,
+ "voice": "Sunaina",
+ "text_sent": "This is a good time to talk."
+}

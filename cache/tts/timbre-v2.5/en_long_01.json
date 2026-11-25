@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 2.0614703000173904,
+ "bytes": 803840,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 25.12,
+ "voice": "Kaveri",
+ "text_sent": "To file a cashless claim, first inform the insurer within twenty four hours of an emergency admission, or at least forty eight hours before a planned admission. The hospital desk will send the pre-authorisation form to the third party administrator, along with your doctor's notes and estimated costs. Once approved, the insurer settles the bill directly with the hospital. You only pay for items that the policy does not cover, such as consumables, registration charges, or any amount above your room rent limit."
+}

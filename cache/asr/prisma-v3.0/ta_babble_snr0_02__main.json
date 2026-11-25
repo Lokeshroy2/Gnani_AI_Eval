@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-76af-7cd8-b17d-4ddad69b69dd",
+  "transcript": "நிகழ்வுகள் நிகழ்ந்த முக்கியமான மேடைகளில், அது இதே நிகழ்ச்சி முடிந்திருந்தாலும், விழாவின் சில. விரிவுகள் இறங்கு சீர்ப்பதை தொடரும், அல்லது ஒரு வழி கொண்டு.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3913877010345459,
+  "end_to_end_latency": 0.3937523365020752,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.8464661999896634,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 14.88
+}

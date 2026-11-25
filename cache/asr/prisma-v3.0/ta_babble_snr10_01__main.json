@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-6387-7cea-af5b-e597c660f2a0",
+  "transcript": "லக்காச்சின் பஜனியை வழங்கினார். பாடகர் ராஜு கண்டல்களும் அவருடன் வந்திருந்தார்.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3152186870574951,
+  "end_to_end_latency": 0.3175961971282959,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.7406313999963459,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 6.96
+}

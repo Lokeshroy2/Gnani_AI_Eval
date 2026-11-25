@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-cfa8-7012-b5eb-20ce97980767",
+  "transcript": "இதன் விளைவாக இரண்டு மீன் வகைகள் அழிந்துவிட்டன மேலும் ஹம்பேக்சப் உட்பட மற்ற இரண்டு அழியும் நிலையில் உள்ளன",
+  "model": "prisma-v2.5",
+  "processing_time": 0.45374608039855957,
+  "end_to_end_latency": 0.45708203315734863
+ },
+ "client_latency_s": 0.8760380000167061,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 8.82
+}

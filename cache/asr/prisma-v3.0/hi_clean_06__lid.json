@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-0068-7cbb-bd03-af5b7f078d92",
+  "transcript": "प्राचीन काल से ही लोग सोने, चांदी और तांबे जैसे रासायनिक तत्वों के बारे में ही जानकारी रखते हैं। क्योंकि इन्हें प्रकृति में मूल स्वरूप में ढूंढा जा सकता है और इन्हें प्राथमिक उपकरणों के ज़रिए ढूंढ़ना। अपेक्षाकृत आसान है।",
+  "model": "prisma-v3.0",
+  "processing_time": 0.40102410316467285,
+  "end_to_end_latency": 0.40393638610839844,
+  "detected_language_code": "hi-IN"
+ },
+ "client_latency_s": 0.8282993000175338,
+ "request": {
+  "language_code": "indic-auto",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 17.1
+}

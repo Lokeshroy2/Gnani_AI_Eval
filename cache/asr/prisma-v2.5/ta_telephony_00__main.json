@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-0028-71fd-a29c-9b1e599a9b41",
+  "transcript": "இது வேதியியல் பிஹெச் என அழைக்கப்படுகிறது நீங்கள் சிவப்பு முட்டைக்கோஸ் சாற்றைப் பயன்படுத்தி ஒரு குறிகாட்டியை உருவாக்கலாம்",
+  "model": "prisma-v2.5",
+  "processing_time": 0.293978214263916,
+  "end_to_end_latency": 0.295346736907959
+ },
+ "client_latency_s": 0.6694842000142671,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 7.8
+}

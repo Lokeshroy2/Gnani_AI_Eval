@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-6949-7956-9755-9b192ad723a8",
+  "transcript": "லக்கச்சன் பஜனை வளவாளர் பாடகர் ராஜன் என்ற அந்தஸ்து கொண்டவர்களுடன் அவருடைய ஜென்மம் வந்திருந்தது.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.24815869331359863,
+  "end_to_end_latency": 0.24992084503173828,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.6591139999800362,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 6.96
+}

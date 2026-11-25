@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.1544183999940287,
+ "bytes": 64000,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 2.0,
+ "voice": "Sunaina",
+ "text_sent": "क्या आप अभी बात कर सकते हैं?"
+}

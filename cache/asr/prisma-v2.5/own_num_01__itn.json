@@ -1,0 +1,20 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21000-acc5-7a08-9c6f-a0154ce7c884",
+  "transcript": "my policy number is 45789213",
+  "model": "prisma-v2.5",
+  "processing_time": 0.09674429893493652,
+  "end_to_end_latency": 0.12358450889587402,
+  "output": {
+   "literal": "my policy number is four five seven eight nine two one three"
+  }
+ },
+ "client_latency_s": 0.5120714000076987,
+ "request": {
+  "language_code": "en-IN",
+  "format": "transcribe"
+ },
+ "audio_duration_s": 8.425625
+}

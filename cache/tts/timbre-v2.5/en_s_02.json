@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 0.7896400000026915,
+ "bytes": 46080,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 1.44,
+ "voice": "Kaveri",
+ "text_sent": "This is a good time to talk."
+}

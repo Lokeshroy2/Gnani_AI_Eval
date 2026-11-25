@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21000-a9dd-7a01-aa52-7526097bf990",
+  "transcript": "my policy number is four five seven eight nine two one three",
+  "model": "prisma-v2.5",
+  "processing_time": 0.3383603096008301,
+  "end_to_end_latency": 0.34607481956481934
+ },
+ "client_latency_s": 0.8370695000048727,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 8.425625
+}

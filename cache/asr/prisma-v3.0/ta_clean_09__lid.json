@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-5469-7980-8526-60b0fc706ab7",
+  "transcript": "அதன் பலனாக நடிகர்களும் கூட மேடையின் மீது கஞ்சாவை புகைகிறார்கள் மற்றும் தேட்டரும் கூட பார்வையாளர்களை அதில் இணைய உற்சாக. வகுபடுத்துகிறது.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.33733105659484863,
+  "end_to_end_latency": 0.3397681713104248,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.765463899995666,
+ "request": {
+  "language_code": "indic-auto",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 11.76
+}

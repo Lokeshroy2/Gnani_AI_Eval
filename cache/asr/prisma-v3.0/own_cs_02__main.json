@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21002-3ae9-72a5-baa7-4ae282b8671a",
+  "transcript": "claim status என்னான்னு check பண்ணி சொல்லுங்கள்.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.22461652755737305,
+  "end_to_end_latency": 0.22625470161437988,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.6870079000073019,
+ "request": {
+  "language_code": "ta-IN,en-IN",
+  "format": "codemix",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 4.905625
+}

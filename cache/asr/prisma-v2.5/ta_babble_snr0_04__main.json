@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-27f4-799a-87fb-8d5a6c36f452",
+  "transcript": "வெடி வச்சு அதிகம் வெடிக்க தானமாக கொடுப்போம் ஆனால் வெடிக்கறதுனால நம்ம வந்து அடிக்கடி அதை ஆலோசனை",
+  "model": "prisma-v2.5",
+  "processing_time": 0.3007373809814453,
+  "end_to_end_latency": 0.3042616844177246
+ },
+ "client_latency_s": 0.8882152999867685,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 14.7
+}

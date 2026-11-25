@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21002-32c7-7b5c-937e-01ff40c4e4bf",
+  "transcript": "I paid twelve thousand five hundred rupees on the fifth on month fifth of March.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.4090087413787842,
+  "end_to_end_latency": 0.41095972061157227,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.7824889000039548,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 6.6123125
+}

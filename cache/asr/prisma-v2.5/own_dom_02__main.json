@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21001-a247-7e24-afb7-899bf09212f9",
+  "transcript": "please send the pre authorization from to the tpa for my star health policy",
+  "model": "prisma-v2.5",
+  "processing_time": 4.272323369979858,
+  "end_to_end_latency": 4.2780022621154785
+ },
+ "client_latency_s": 4.6614656999881845,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 8.703
+}

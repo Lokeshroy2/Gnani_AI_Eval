@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 2.623424799996428,
+ "bytes": 222720,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 6.96,
+ "voice": "Sunaina",
+ "text_sent": "Your policy number is SH2026004517."
+}

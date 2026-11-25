@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21001-cbbb-7c49-b9fd-e2863b29de8f",
+  "transcript": "சரி",
+  "model": "prisma-v2.5",
+  "processing_time": 0.24380803108215332,
+  "end_to_end_latency": 0.24509310722351074
+ },
+ "client_latency_s": 0.5831158999935724,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 1.855
+}

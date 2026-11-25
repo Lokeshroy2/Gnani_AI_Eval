@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-07db-70eb-9d23-6517581f0d86",
+  "transcript": "லக்காச்சி முகஜினி அழகறினர் பாடகர் ராஜூ கண்டரிபாலும் அவருடன் வந்திருந்தார்",
+  "model": "prisma-v2.5",
+  "processing_time": 0.18649816513061523,
+  "end_to_end_latency": 0.18852543830871582
+ },
+ "client_latency_s": 0.6167546999931801,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 6.96
+}

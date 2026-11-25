@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-d9a4-76ed-8a0e-c7fa0814f8d9",
+  "transcript": "कुछ अणुओं में अस्थिर केंद्रक होता है, जिसका मतलब यह कि उनमें थोड़े या बिना किसी झटके से टूटने की प्रवृत्ति होती है।",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3254668712615967,
+  "end_to_end_latency": 0.3274214267730713,
+  "detected_language_code": "hi-IN"
+ },
+ "client_latency_s": 0.7639353000267874,
+ "request": {
+  "language_code": "hi-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 9.12
+}

@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-3855-7026-ae22-4b6833e1d8c0",
+  "transcript": "many people don't think about them as dinosaurs because they have feathers income",
+  "model": "prisma-v2.5",
+  "processing_time": 0.16125893592834473,
+  "end_to_end_latency": 0.16298341751098633
+ },
+ "client_latency_s": 0.5642579999985173,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 4.32
+}

@@ -1,0 +1,20 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21000-cffa-704c-81e3-b2af7ba47d78",
+  "transcript": "i paid ₹12,500 on 5th March",
+  "model": "prisma-v2.5",
+  "processing_time": 0.22971606254577637,
+  "end_to_end_latency": 0.25432538986206055,
+  "output": {
+   "literal": "i paid twelve thousand five hundred rupees on the fifth of march"
+  }
+ },
+ "client_latency_s": 0.6555121000274085,
+ "request": {
+  "language_code": "en-IN",
+  "format": "transcribe"
+ },
+ "audio_duration_s": 6.6123125
+}

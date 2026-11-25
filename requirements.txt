@@ -1,0 +1,14 @@
+requests>=2.31
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+soundfile>=0.12
+librosa>=0.10
+num2words>=0.5.13
+matplotlib>=3.7
+tabulate>=0.9
+datasets==3.6.0        # 3.x still runs the FLEURS loading script (4.x dropped script support)
+faster-whisper>=1.1.0  # independent ASR judge for TTS intelligibility
+av==13.1.0             # faster-whisper's audio decoder; newer av (14+) drops an arg it still uses
+torch                  # preinstalled on Colab; needed for UTMOS + Whisper GPU check
+torchaudio             # needed for UTMOS (torch.hub tarepan/SpeechMOS)

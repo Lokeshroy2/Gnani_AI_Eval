@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 0.9033689999778289,
+ "bytes": 112640,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.52,
+ "voice": "Vedika",
+ "text_sent": "உங்கள் பிரீமியம் தொகை ₹12,500 ஆகும்."
+}

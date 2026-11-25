@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-32d0-74a4-a88a-a1761964caca",
+  "transcript": "இரண்டு நூறு மற்ற இரண்டு அணிகளாக",
+  "model": "prisma-v2.5",
+  "processing_time": 0.25522589683532715,
+  "end_to_end_latency": 0.2579329013824463
+ },
+ "client_latency_s": 0.7988484000088647,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 8.82
+}

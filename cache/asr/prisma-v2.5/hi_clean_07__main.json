@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-9987-778f-b915-1d2ab89c999b",
+  "transcript": "इसे केमिकल का पीएच कहा जाता है आप लाल गोभी के जूस को इस्तेमाल करके एक संकेतक बना सकते हैं",
+  "model": "prisma-v2.5",
+  "processing_time": 2.164640426635742,
+  "end_to_end_latency": 2.1660478115081787
+ },
+ "client_latency_s": 2.5740210999792907,
+ "request": {
+  "language_code": "hi-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 8.22
+}

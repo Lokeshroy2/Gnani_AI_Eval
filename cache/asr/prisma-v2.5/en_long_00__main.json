@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-6580-7796-aaba-70098fe36e12",
+  "transcript": "for example the most photography",
+  "model": "prisma-v2.5",
+  "processing_time": 0.33205437660217285,
+  "end_to_end_latency": 0.35454726219177246
+ },
+ "client_latency_s": 0.8108965000137687,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 29.12
+}

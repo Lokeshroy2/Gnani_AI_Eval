@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-1b07-7fd2-9352-4127bd4ec633",
+  "transcript": "அந்த பாலம் செப்டம்பர் ரெண்டாயிரத்தி பதினேழு ஒரு சிறிய சுங்கத்துறை சோதனைச் சாவடிகள் தயாரானதும் முழுவதுமாக செயல்பட திட்டமிடப்பட்டுள்ளது",
+  "model": "prisma-v2.5",
+  "processing_time": 0.133897066116333,
+  "end_to_end_latency": 0.13563299179077148
+ },
+ "client_latency_s": 0.5663940999947954,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 10.24
+}

@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.5420540999912191,
+ "bytes": 125440,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.92,
+ "voice": "Sunaina",
+ "text_sent": "Your policy expires on 15/08/2026."
+}

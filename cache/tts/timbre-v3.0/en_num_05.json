@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 2.3751703999878373,
+ "bytes": 122880,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.84,
+ "voice": "Sunaina",
+ "text_sent": "Your appointment is at 3:30 PM on 2nd December."
+}

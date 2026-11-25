@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.7080265999829862,
+ "bytes": 122880,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.84,
+ "voice": "Sunaina",
+ "text_sent": "Please record your consent, as this call is kept as a record."
+}

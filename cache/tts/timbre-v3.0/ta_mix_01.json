@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.5529986000037752,
+ "bytes": 120320,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.76,
+ "voice": "Sunaina",
+ "text_sent": "உங்க policy renewal date நாளைக்கு, please payment பண்ணிடுங்க."
+}

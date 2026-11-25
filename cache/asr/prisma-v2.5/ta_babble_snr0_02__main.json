@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-12ee-7372-a094-dfeab9cef43f",
+  "transcript": "முக்கியமான மேடைகளில் இசை நிகழ்ச்சி முடிந்திருந்தாலும் விழாவின் சில பிரிவுகள் இறகு சேர்ப்பதை தொடரும்",
+  "model": "prisma-v2.5",
+  "processing_time": 0.25510573387145996,
+  "end_to_end_latency": 0.25744175910949707
+ },
+ "client_latency_s": 0.6904330000106711,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 14.88
+}

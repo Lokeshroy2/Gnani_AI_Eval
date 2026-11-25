@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21002-384c-7809-baa3-440b318ed38c",
+  "transcript": "என்னோட policy renewal பண்ணணும், premium எவ்வளோ?",
+  "model": "prisma-v3.0",
+  "processing_time": 0.2054140567779541,
+  "end_to_end_latency": 0.20701861381530762,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.6148162000172306,
+ "request": {
+  "language_code": "ta-IN,en-IN",
+  "format": "codemix",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 5.055
+}

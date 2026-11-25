@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 3.04280120000476,
+ "bytes": 284160,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 8.88,
+ "voice": "Sunaina",
+ "text_sent": "Email the documents to claims@starhealth.in or visit www.vizza.com/renew."
+}

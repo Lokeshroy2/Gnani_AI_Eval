@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.7266412999888416,
+ "bytes": 148480,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.64,
+ "voice": "Sunaina",
+ "text_sent": "Mr. Venkataraghavan from Thiruvananthapuram has a claim with Star Health."
+}

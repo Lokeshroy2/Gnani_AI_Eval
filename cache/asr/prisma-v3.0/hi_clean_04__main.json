@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-f196-79d2-98ee-da7932d588cd",
+  "transcript": "इंटरनेट पर ये खोज शत्रुतापूर्ण पर्यावरण पाठ्यक्रम के लिए अक्सर आपको। एक स्थानीय कंपनी का पता प्रदान करेगी।",
+  "model": "prisma-v3.0",
+  "processing_time": 0.22063899040222168,
+  "end_to_end_latency": 0.2229909896850586,
+  "detected_language_code": "hi-IN"
+ },
+ "client_latency_s": 0.6417579999833833,
+ "request": {
+  "language_code": "hi-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 13.2
+}

@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.0860570999793708,
+ "bytes": 112640,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.52,
+ "voice": "Kaveri",
+ "text_sent": "your premium amount is one lakh twenty five thousand rupees for the year"
+}

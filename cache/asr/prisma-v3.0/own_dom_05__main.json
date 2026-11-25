@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21002-5861-7c6e-98fc-a21fd0450723",
+  "transcript": "என் காப்பீட்டுத் தொகை எவ்வளவு என்று சொல்ல முடியுமா?",
+  "model": "prisma-v3.0",
+  "processing_time": 0.19469237327575684,
+  "end_to_end_latency": 0.1963040828704834,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.5642270999960601,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 4.991
+}

@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.9057218999951147,
+ "bytes": 145920,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.56,
+ "voice": "Sunaina",
+ "text_sent": "आपकी policy renewal की last date कल है, please payment जल्दी कर दीजिए।"
+}

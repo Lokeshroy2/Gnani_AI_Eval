@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-cccb-7559-b377-aea5cac35419",
+  "transcript": "Possible has followed protocol for infection control, including separating the patient from others. To prevent possible infection of others.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.2579762935638428,
+  "end_to_end_latency": 0.25993800163269043,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.6441263000015169,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 11.42
+}

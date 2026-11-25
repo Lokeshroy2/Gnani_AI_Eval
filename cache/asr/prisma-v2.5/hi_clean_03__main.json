@@ -1,0 +1,17 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea7-75ce-7734-859f-1850ca294c67",
+  "transcript": "टेलीविजन रिपोर्टों में प्लांट से निकलने वाला सफेद धुआँ दिखाया गया है",
+  "model": "prisma-v2.5",
+  "processing_time": 0.09538483619689941,
+  "end_to_end_latency": 0.09667444229125977
+ },
+ "client_latency_s": 0.5663364000211004,
+ "request": {
+  "language_code": "hi-IN",
+  "format": "verbatim"
+ },
+ "audio_duration_s": 5.1
+}

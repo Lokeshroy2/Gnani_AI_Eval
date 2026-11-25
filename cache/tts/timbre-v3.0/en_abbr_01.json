@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 2.039625100005651,
+ "bytes": 179200,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 5.6,
+ "voice": "Sunaina",
+ "text_sent": "Please complete your KYC and link your PAN before the EMI is due."
+}

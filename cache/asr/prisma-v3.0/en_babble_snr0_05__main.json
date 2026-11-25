@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-c9af-76e4-8b06-3ec741e46985",
+  "transcript": "The hospital has followed strict guidelines to ensure that patients are not exposed to any infection or other risk. Hospitalization and the treatment of the patient.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.40866756439208984,
+  "end_to_end_latency": 0.4107236862182617,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.8413756999943871,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 11.42
+}

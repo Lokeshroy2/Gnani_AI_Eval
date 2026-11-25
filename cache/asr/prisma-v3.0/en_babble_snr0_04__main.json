@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-bd39-7dfe-9757-19394644e546",
+  "transcript": "Sondikku pakka njan kandittu, enikku tharvatha.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.2532379627227783,
+  "end_to_end_latency": 0.2551097869873047,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.6247800999844912,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 4.32
+}

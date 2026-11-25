@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.917196199996397,
+ "bytes": 130560,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.08,
+ "voice": "Sunaina",
+ "text_sent": "Visit St. John's Hospital on MG Rd. for the TPA desk."
+}

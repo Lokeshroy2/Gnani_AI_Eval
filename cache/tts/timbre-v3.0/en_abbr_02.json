@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 1.9133913000114262,
+ "bytes": 133120,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 4.16,
+ "voice": "Sunaina",
+ "text_sent": "Dr. Sharma from the ICU will share the OTP."
+}

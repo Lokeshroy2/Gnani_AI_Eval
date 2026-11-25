@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-2d21-7e34-8d0c-27257533cf9e",
+  "transcript": "அந்த பாலம் செப்டம்பர் இரண்டு ஆயிரத்தி பதினேழில் பிரேசிலிய சுங்க துறை சோதனை சாவடிகள் தயாரானதும் முழுவதுமாக செயல்பட. திட்டமிடப்பட்டுள்ளது.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3077206611633301,
+  "end_to_end_latency": 0.3097999095916748,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.7540770000196062,
+ "request": {
+  "language_code": "indic-auto",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 10.24
+}

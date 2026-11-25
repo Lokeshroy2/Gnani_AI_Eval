@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-3e36-720e-aaf0-a8c7b54595be",
+  "transcript": "ரோம் நகரில் பல இடங்களில் ஏராளமான பெரிய தொலைக்காட்சித் திரைகள் அமைக்கப்பட்டு மக்கள் இந்த விழாவைக் காண முடிந்தது.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3810844421386719,
+  "end_to_end_latency": 0.3829798698425293,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.7625709999992978,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 7.02
+}

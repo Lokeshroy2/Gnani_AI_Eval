@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a21002-3ffe-701e-9bf9-3929a4e223c4",
+  "transcript": "Is this sum insured restored after a cashless claim under the floater plan?",
+  "model": "prisma-v3.0",
+  "processing_time": 0.37168025970458984,
+  "end_to_end_latency": 0.3733408451080322,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.7873746000113897,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 7.1243125
+}

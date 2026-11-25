@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-cf88-7017-9eda-1b82fb8e47c5",
+  "transcript": "For example, the most common still image photography format in the world is thirty five millimeter. Which was the dominant film size at the close of the analog film era? The term safari and popular lo's refers to overland travel to view the stunning African wildlife, particularly on savanna. But there are a lot of things about Earth that still look like a dinosaur.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.5948002338409424,
+  "end_to_end_latency": 0.6206443309783936,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 1.0569347999989986,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 29.12
+}

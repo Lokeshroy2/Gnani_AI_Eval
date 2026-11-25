@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea8-b530-724e-8e9c-ccc57e58c4c3",
+  "transcript": "The cabbage juice changes color depending on how acidic, basic, alkaline the chemical is.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.3673396110534668,
+  "end_to_end_latency": 0.3687894344329834,
+  "detected_language_code": "en-IN"
+ },
+ "client_latency_s": 0.7337241000204813,
+ "request": {
+  "language_code": "en-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 5.76
+}

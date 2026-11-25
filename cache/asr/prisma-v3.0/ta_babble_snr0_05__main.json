@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "body": {
+  "success": true,
+  "request_id": "01a20ea9-9ee3-76ea-b052-607ce4826e2c",
+  "transcript": "இதன் விளைவாக இரண்டு நிலவுலகுகள் அழிந்துவிட்டன. மேலும் சந்திரனில் பிறக்கப்பட மற்ற இரண்டு அழியும் நிலவுகள் அல்லவா? மூன்றாண்டுகளில்.",
+  "model": "prisma-v3.0",
+  "processing_time": 0.2523376941680908,
+  "end_to_end_latency": 0.2542290687561035,
+  "detected_language_code": "ta-IN"
+ },
+ "client_latency_s": 0.6671911999874283,
+ "request": {
+  "language_code": "ta-IN",
+  "format": "verbatim",
+  "model": "prisma-v3.0"
+ },
+ "audio_duration_s": 8.82
+}

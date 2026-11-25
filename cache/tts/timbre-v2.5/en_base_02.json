@@ -1,0 +1,9 @@
+{
+ "status": 200,
+ "client_latency_s": 0.9285829000000376,
+ "bytes": 122880,
+ "content_type": "application/octet-stream",
+ "audio_duration_s": 3.84,
+ "voice": "Kaveri",
+ "text_sent": "Your claim has been registered and our team will contact you within two working days."
+}
